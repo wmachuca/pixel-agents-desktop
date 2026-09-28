@@ -17,5 +17,5 @@ esbuild.js
 **/*.map
 **/*.ts
 **/.vscode-test.*
-CLAUDE.md
+AGENTS.md
 **/*.jsonl
